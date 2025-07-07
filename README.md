@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Víctor Martín</h1>
 
 <p align="center">
-  <b>Backend Architect & Kotlin Developer</b><br>
+  <b>Backend Architect & Developer (Kotlin · Java)</b><br>
   Clean Architecture · DDD · AWS · TDD · AI Integration
 </p>
 
@@ -28,7 +28,6 @@
       </a>
       <br/><br/>
       <b>Download my updated CV in PDF</b><br/>
-      <sub>Short, clear and optimized for tech recruiters</sub>
     </td>
   </tr>
 </table>
@@ -60,8 +59,8 @@ I’m passionate about **writing high-quality, maintainable code** and collabora
 | DevOps              | GitHub Actions, Jenkins, Docker, Kubernetes, Terraform |
 | Cloud               | AWS (EKS, Lambda, S3, SQS, CloudWatch) |
 | Observability       | Grafana, Prometheus, CloudWatch |
-| Testing             | TDD, JUnit 5, Mockito, AssertK, Testcontainers, WireMock, Cucumber |
-| Docs & Diagrams     | OpenAPI, Confluence, C4 model, Miro |
+| Testing             | TDD, JUnit 5, Mockito, AssertJ, Testcontainers, WireMock, Cucumber |
+| Docs & Diagrams     | OpenAPI, Confluence, Miro, Excalidraw, draw.io |
 
 ---
 
