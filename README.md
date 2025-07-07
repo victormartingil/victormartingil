@@ -6,10 +6,32 @@
 </p>
 
 <p align="center">
-  <a href="https://www.victormartingil.com" target="_blank">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/victormartingil/" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/victormartingil" target="_blank">💻 GitHub</a>
+  <a href="https://www.victormartingil.com">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/victor-martin-a1464397/">🔗 LinkedIn</a> •
+  <a href="https://github.com/victormartingil">💻 GitHub</a>
 </p>
+
+---
+
+## 🎥 Video CV & Resume
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.youtube.com/watch?v=ogmqAP-rrc0">
+        <img src="https://img.youtube.com/vi/ogmqAP-rrc0/hqdefault.jpg" alt="Vídeo CV" width="100%">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.victormartingil.com/assets/pdf/VictorMartinCV.pdf">
+        <img src="https://img.shields.io/badge/📄 Download%20My%20CV-blue?style=for-the-badge" alt="Download CV">
+      </a>
+      <br/><br/>
+      <b>Download my updated CV in PDF</b><br/>
+      <sub>Short, clear and optimized for tech recruiters</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -93,7 +115,7 @@ I thrive in Agile environments (Scrum, Kanban), actively contributing to:
 
 - 🌐 Website: [www.victormartingil.com](https://www.victormartingil.com)
 - 📫 Email: victor@victormartingil.com
-- 💼 LinkedIn: [linkedin.com/in/victormartingil](https://www.linkedin.com/in/victormartingil/)
+- 💼 LinkedIn: [linkedin.com/in/victor-martin-a1464397](https://www.linkedin.com/in/victor-martin-a1464397)
 
 ---
 
