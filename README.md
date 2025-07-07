@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote%20Work-green?style=flat-square">
+</p>
+
+<p align="center">
   <a href="https://www.victormartingil.com">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/victor-martin-a1464397/">🔗 LinkedIn</a> •
   <a href="https://github.com/victormartingil">💻 GitHub</a>
@@ -27,7 +31,7 @@
         <img src="https://img.shields.io/badge/📄 Download%20My%20CV-blue?style=for-the-badge" alt="Download CV">
       </a>
       <br/><br/>
-      <b>Download my updated CV in PDF</b><br/>
+      <i>PDF format · 1 page · Updated</i>
     </td>
   </tr>
 </table>
@@ -44,7 +48,7 @@ I'm a **Backend Engineer** specialized in **Kotlin, Java and Spring Boot**, with
 - 🐳 **Docker & Kubernetes**
 - 📐 **REST APIs**, Async messaging, Kafka
 
-I’m passionate about **writing high-quality, maintainable code** and collaborating in agile teams to deliver business value continuously.
+I care deeply about **clean design**, **developer experience**, and solving real-world problems through elegant backend solutions.
 
 ---
 
