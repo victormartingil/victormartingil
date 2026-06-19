@@ -27,7 +27,7 @@
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <a href="https://www.victormartingil.com/assets/pdf/VictorMartinCV.pdf">
+      <a href="https://www.victormartingil.com/cv">
         <img src="https://img.shields.io/badge/📄 Download%20My%20CV-blue?style=for-the-badge" alt="Download CV">
       </a>
       <br/><br/>
