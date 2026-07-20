@@ -12,16 +12,10 @@
   <a href="https://github.com/victormartingil">💻 GitHub</a>
 </p>
 
----
-
-## 📄 CV & Professional Profile
-
 <p align="center">
   <a href="https://www.victormartingil.com/cv">
     <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="View my CV">
   </a>
-  <br/><br/>
-  <a href="https://www.victormartingil.com/pdf/VictorMartinCV_EN.pdf">Download PDF</a>
 </p>
 
 ---
