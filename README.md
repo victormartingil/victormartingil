@@ -6,15 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.victormartingil.com">🌐 Website</a> •
-  <a href="https://www.victormartingil.com/cv">📄 CV</a> •
-  <a href="https://www.linkedin.com/in/victor-martin-a1464397/">🔗 LinkedIn</a> •
-  <a href="https://github.com/victormartingil">💻 GitHub</a>
-</p>
-
-<p align="center">
+  <a href="https://www.victormartingil.com">
+    <img src="https://img.shields.io/badge/-Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
   <a href="https://www.victormartingil.com/cv">
-    <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="View my CV">
+    <img src="https://img.shields.io/badge/-CV-B42318?style=for-the-badge&logoColor=white" alt="CV">
+  </a>
+  <a href="https://www.linkedin.com/in/victor-martin-a1464397/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/victormartingil">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
