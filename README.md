@@ -1,127 +1,125 @@
 <h1 align="center">👋 Hi, I'm Víctor Martín</h1>
 
 <p align="center">
-  <b>Backend Architect & Developer (Kotlin · Java)</b><br>
-  Clean Architecture · DDD · AWS · TDD · AI Integration
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote%20Work-green?style=flat-square">
+  <b>Backend Architect & Java Tech Lead | Senior Software Engineer</b><br>
+  Java & Spring Boot · DDD · Kafka · Kubernetes · AWS/GCP · Pragmatic AI Integration
 </p>
 
 <p align="center">
   <a href="https://www.victormartingil.com">🌐 Website</a> •
+  <a href="https://www.victormartingil.com/cv">📄 CV</a> •
   <a href="https://www.linkedin.com/in/victor-martin-a1464397/">🔗 LinkedIn</a> •
   <a href="https://github.com/victormartingil">💻 GitHub</a>
 </p>
 
 ---
 
-## 🎥 Video CV & Resume
+## 📄 CV & Professional Profile
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://www.youtube.com/watch?v=ogmqAP-rrc0">
-        <img src="https://img.youtube.com/vi/ogmqAP-rrc0/hqdefault.jpg" alt="Vídeo CV" width="100%">
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://www.victormartingil.com/cv">
-        <img src="https://img.shields.io/badge/📄 Download%20My%20CV-blue?style=for-the-badge" alt="Download CV">
-      </a>
-      <br/><br/>
-      <i>PDF format · 1 page · Updated</i>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.victormartingil.com/cv">
+    <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge" alt="View my CV">
+  </a>
+  <br/><br/>
+  <a href="https://www.victormartingil.com/pdf/VictorMartinCV_EN.pdf">Download PDF</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Backend Engineer** specialized in **Kotlin, Java and Spring Boot**, with strong experience designing scalable backend systems using:
+I'm a **Backend Architect, Java Tech Lead and Senior Software Engineer** with **10+ years of experience** designing, modernizing and delivering backend systems in complex enterprise environments.
 
-- 🧱 **Hexagonal Architecture** and **Domain-Driven Design (DDD)**
-- 🧼 **Clean Code**, **SOLID Principles**, **Design Patterns**
-- ☁️ **AWS Cloud**: Lambda, EKS, SQS, S3, DynamoDB
-- 🐳 **Docker & Kubernetes**
-- 📐 **REST APIs**, Async messaging, Kafka
+My core expertise includes:
 
-I care deeply about **clean design**, **developer experience**, and solving real-world problems through elegant backend solutions.
+- ☕ **Java 21+ and Spring Boot** microservices, REST APIs and backend platforms
+- 🧱 **Domain-Driven Design**, **Hexagonal Architecture** and event-driven systems
+- 📨 **Kafka** and reliable synchronous/asynchronous integrations
+- ☁️ Cloud-native backend delivery with **GCP, AWS, Kubernetes and Docker**
+- 🧭 Technical leadership through architecture decisions, **RFCs/ADRs**, mentoring and code reviews
+- 🤖 Pragmatic **AI integration** with Python, FastAPI, LangGraph, RAG and tool orchestration
+
+I'm currently working as a **Freelance Tech Lead / Backend Architect at Decathlon**, combining architecture ownership across Java/Spring backend services, GCP/GKE production operations and applied AI integration.
 
 ---
 
 ## 🚀 Tech Stack
 
-| Area                | Tools & Technologies |
-|---------------------|----------------------|
-| Language            | Kotlin, Java         |
-| Framework           | Spring Boot, Spring Cloud, Spring Security, JPA |
-| Databases           | PostgreSQL, MySQL, MongoDB, DynamoDB |
-| Architecture        | Hexagonal, DDD, Clean Architecture |
-| DevOps              | GitHub Actions, Jenkins, Docker, Kubernetes, Terraform |
-| Cloud               | AWS (EKS, Lambda, S3, SQS, CloudWatch) |
-| Observability       | Grafana, Prometheus, CloudWatch |
-| Testing             | TDD, JUnit 5, Mockito, AssertJ, Testcontainers, WireMock, Cucumber |
-| Docs & Diagrams     | OpenAPI, Confluence, Miro, Excalidraw, draw.io |
+| Area | Tools & Technologies |
+|------|----------------------|
+| Languages | Java 21+, Python, Kotlin (JVM ecosystem exposure) |
+| Backend | Spring Boot, Spring Cloud, Spring Security, FastAPI, REST APIs |
+| Architecture | DDD, Hexagonal Architecture, Clean Architecture, Microservices, Event-Driven Systems |
+| Data & Messaging | Kafka, PostgreSQL, MongoDB, Redis |
+| Cloud & Platform | GCP/GKE, AWS, Kubernetes, Docker, CI/CD |
+| Quality & Testing | TDD, JUnit 5, Mockito, AssertJ, Testcontainers, WireMock |
+| AI & Integration | LLM Integration, RAG, LangGraph, MCP, Tool Orchestration |
+| Observability & Security | Grafana, Prometheus, CloudWatch, OAuth 2.0, JWT |
+| Architecture Docs | OpenAPI, C4 Model, RFCs, ADRs, Sequence Diagrams |
 
 ---
 
-## 🧪 TDD & Observability
+## 🧪 Architecture, Quality & Delivery
 
-I practice **Test-Driven Development (TDD)** and **Extreme Programming (XP)** to ensure robust, testable systems.
+I combine architecture-level judgment with hands-on implementation and delivery:
 
-> ✅ Unit, integration and E2E testing  
-> 📊 Monitoring with CloudWatch, Prometheus & Grafana  
-> 🧾 Logging & traceability for production readiness
+> 🧱 Clear boundaries, maintainable designs and explicit architectural trade-offs  
+> 🧪 Automated testing across unit, integration and end-to-end levels  
+> 📝 RFCs, ADRs, code reviews and documentation that support team decisions  
+> 📊 Observability, rollout safety and production readiness  
+> 🤝 Mentoring and technical direction while staying close to the code
 
 ---
 
-## 🤖 AI Integration Roadmap
+## 🤖 Applied AI Integration
 
-I’m currently expanding my skills in **AI backend integration**, building services that combine LLMs with real-time backend logic:
+I integrate AI capabilities into real backend and enterprise workflows with the same engineering discipline applied to production systems:
 
-- 🔍 RAG architecture for document Q&A
-- 🤖 Chatbots connected to APIs and databases
-- ⚙️ Integration with OpenAI, DeepSeek, LangChain4j
-- ☁️ Serverless deployments with AWS Lambda and Step Functions
+- 🔗 LLM-enabled backend workflows built with **Python and FastAPI**
+- 🔍 **RAG-style retrieval** for product and domain knowledge
+- 🧠 **LangGraph** orchestration with explicit backend fallbacks
+- 🛠️ **MCP and tool orchestration** for agentic systems
+- 🔐 Security, observability, maintainability and failure handling
 
 ---
 
 ## 📂 Featured Project
 
-### [`🧪 test-challenge`](https://github.com/victormartingil/test-challenge)
+### [🥥 Corbat COCO](https://github.com/corbat-tech/coco)
 
-A backend challenge applying:
-- ✅ Hexagonal Architecture
-- ✅ Domain-Driven Design
-- ✅ TDD and CI/CD best practices
+**Corbat COCO is an open-source CLI coding agent and reusable agent runtime for real-world automation.**
 
-> 📁 Clean code + modular structure  
-> 🧪 Full test coverage with JUnit + Testcontainers  
-> 🚀 Built for maintainability and clarity
+- 🔄 Multi-step execution: inspect, plan, implement, test and refine
+- ✅ Quality convergence with configurable validation thresholds
+- 🧠 Multi-provider model support
+- 🛡️ Configurable tools, permissions, sessions, events and workflows
+- 🔌 MCP integration and extensible skills
+
+> Built for real repositories and reusable agent-powered products, not only isolated demos.
 
 ---
 
-## 👥 Team Collaboration
+## 👥 Technical Leadership & Collaboration
 
-I thrive in Agile environments (Scrum, Kanban), actively contributing to:
-- 🧩 Planning, refinements and reviews
-- 🧪 QA & Pair Programming
-- 🚀 Continuous Delivery with GitHub Actions or Jenkins
-- 📈 DevEx improvements
+I work at the intersection of architecture and delivery, actively contributing to:
+
+- 🧭 Technical direction and architecture decision-making
+- 📝 RFCs, ADRs and system design
+- 🔍 Code reviews, mentoring and engineering quality
+- 🤝 Cross-functional delivery and team enablement
+- 🚀 CI/CD, observability and safe production rollouts
 
 ---
 
 ## 📬 Contact
 
 - 🌐 Website: [www.victormartingil.com](https://www.victormartingil.com)
-- 📫 Email: victor@victormartingil.com
+- 📄 CV: [www.victormartingil.com/cv](https://www.victormartingil.com/cv)
+- 📫 Email: [victormartingil@gmail.com](mailto:victormartingil@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/victor-martin-a1464397](https://www.linkedin.com/in/victor-martin-a1464397)
 
 ---
 
 <p align="center">
-  <i>Building scalable backends with Clean Architecture & AI integration.</i>
+  <i>Designing and delivering production-ready backend systems with pragmatic AI integration.</i>
 </p>
