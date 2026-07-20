@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.victormartingil.com"><img src="https://img.shields.io/static/v1?label=&amp;message=Website&amp;color=0F766E&amp;style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"></a>
-  <a href="https://www.victormartingil.com/cv"><img src="https://img.shields.io/static/v1?label=&amp;message=CV&amp;color=B42318&amp;style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDJoMTBsNCA0djE2SDVWMnptOSAyLjJWOGgzLjhMMTQgNC4yeiIvPjxwYXRoIGZpbGw9IiNCNDIzMTgiIGQ9Ik04IDExaDh2MS41SDh6bTAgNGg4djEuNUg4eiIvPjwvc3ZnPg%3D%3D" alt="CV"></a>
-  <a href="https://www.linkedin.com/in/victor-martin-a1464397/"><img src="https://img.shields.io/static/v1?label=&amp;message=LinkedIn&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
-  <a href="https://github.com/victormartingil"><img src="https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <a href="https://www.victormartingil.com"><img src="./assets/profile-website.svg" alt="Website" height="42"></a>
+  <a href="https://www.victormartingil.com/cv"><img src="./assets/profile-cv.svg" alt="CV" height="42"></a>
+  <a href="https://www.linkedin.com/in/victor-martin-a1464397/"><img src="./assets/profile-linkedin.svg" alt="LinkedIn" height="42"></a>
+  <a href="https://github.com/victormartingil"><img src="./assets/profile-github.svg" alt="GitHub" height="42"></a>
 </p>
 
 ---
