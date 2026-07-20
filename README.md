@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.victormartingil.com"><img src="./assets/profile-website.svg" alt="Website" height="42"></a>
-  <a href="https://www.victormartingil.com/cv"><img src="./assets/profile-cv.svg" alt="CV" height="42"></a>
-  <a href="https://www.linkedin.com/in/victor-martin-a1464397/"><img src="./assets/profile-linkedin.svg" alt="LinkedIn" height="42"></a>
-  <a href="https://github.com/victormartingil"><img src="./assets/profile-github.svg" alt="GitHub" height="42"></a>
+  <a href="https://www.victormartingil.com"><img src="./assets/profile-website.svg" alt="Website" height="44"></a>
+  <a href="https://www.victormartingil.com/cv"><img src="./assets/profile-cv.svg" alt="CV" height="44"></a>
+  <a href="https://www.linkedin.com/in/victor-martin-a1464397/"><img src="./assets/profile-linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://github.com/victormartingil"><img src="./assets/profile-github.svg" alt="GitHub" height="44"></a>
 </p>
 
 ---
